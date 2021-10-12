@@ -1,0 +1,2 @@
+This is a test file and a static file ,
+this can be seen by everyone on my server if he will
